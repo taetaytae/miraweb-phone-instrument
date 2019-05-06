@@ -1,6 +1,10 @@
 # Miraweb Phone Instrument
 
-**Patch requires the Miraweb (not to be confused with Mira) max package to be installed on the computer in which it is being used**
+**Patch requires the Miraweb (not to be confused with Mira) max package to be installed on the computer in which it is being used.**
+
+--Might not work on Google Chrome phone web browser due to updated permissions not allowing access to phone sensors--
+
+Patch Demo Video: https://vimeo.com/334388945
 
 The concept of the patch involved wanting to use a few of the many sensors most modern smartphones have inside of them. Smartphones actually have quite a lot of sensors in them, but for the patch I only used three of them. These were the touch screen sensor, the accelerometer, and the gyroscope.The patch gives you an address you can go to in your phone which sends the data straight to the patch and allows you to control the patch from the phone. (Note: Both the phone and the computer need to be connected to the same network).
 
